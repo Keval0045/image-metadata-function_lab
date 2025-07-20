@@ -41,3 +41,11 @@ While trying to run the Azure Durable Functions locally, the project encounters 
 - Confirming the `requirements.txt` includes all necessary dependencies.
 
 ---
+<img width="1470" height="956" alt="Screenshot 2025-07-19 at 9 02 13 PM" src="https://github.com/user-attachments/assets/8127118c-8baf-4bd1-bc5d-1be730815d1e" />
+
+<img width="1470" height="956" alt="Screenshot 2025-07-19 at 9 02 31 PM" src="https://github.com/user-attachments/assets/9689e354-9e33-44cf-bcbb-a7cf79f9d93e" />
+
+<img width="1470" height="956" alt="Screenshot 2025-07-19 at 9 02 23 PM" src="https://github.com/user-attachments/assets/f4397442-5771-47a0-aebf-7048ff8d5595" />
+
+
+
